@@ -42,6 +42,7 @@
 </p>
 
 <p align="center">
+  <a href="#Description">Description</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-languages">Languages</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#books-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#install">Install</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -49,7 +50,7 @@
   <a href="#memo-license">License</a>
 </p>
 
-## :computer: Description
+## Description
 
 On this project we created a cart context to encompass all the application, with this context, we created some hooks to manage the state of the products over the application. Basically, we create an effect to listen to all the changes and save that changes at asyncstorage, to don't lose the cart when you leave the application, and created the hooks(increment and decrement), to manage the products state.
 
