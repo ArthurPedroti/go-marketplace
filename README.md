@@ -1,6 +1,6 @@
-<h2 align="center" >
+<h1 align="center" >
   GoMarketplace
-</h2>
+</h1>
 <h1 align="center">
   <img alt="Go Barber" src="./src/assets/go-marketplace-video.gif" width="400px" style="border-radius:16px;"/>
 </h1>
