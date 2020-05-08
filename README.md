@@ -5,7 +5,7 @@
   GoMarketplace
 </h2>
 <h3 align="center" >
-  A simple cart system to add and remove products, using ContextAPI
+  A simple cart system to add and remove products, using ContextAPI and AsyncStorage
 </h3>
 
 <p align="center">
@@ -49,6 +49,10 @@
   <a href="#memo-license">License</a>
 </p>
 
+## :computer: Description
+
+On this project we created a cart context to encompass all the application, with this context, we created some hooks to manage the state of the products over the application. Basically, we create an effect to listen to all the changes and save that changes at asyncstorage, to don't lose the cart when you leave the application, and created the hooks(increment and decrement), to manage the products state.
+
 ## :computer: Languages
 
 - **#TypeScript**
@@ -62,6 +66,7 @@
 - **#Styled-Components**
 - **#Axios**
 - **#ContextAPI**
+- **#AsyncStorage**
 
 ## Install
 
