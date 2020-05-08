@@ -1,9 +1,9 @@
+<h2 align="center" >
+  GoMarketplace
+</h2>
 <h1 align="center">
   <img alt="Go Barber" src="./src/assets/go-marketplace-video.gif" width="400px" style="border-radius:16px;"/>
 </h1>
-<h3 align="center" >
-  GoMarketplace
-</h3>
 <h3 align="center" >
   A simple cart system to add and remove products, using ContextAPI and AsyncStorage
 </h3>
